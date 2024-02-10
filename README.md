@@ -19,4 +19,4 @@ Ultimately, my goals as a programmer are to be able to develop games, and make s
 
 I am somewhat compotent in Ruby and C#, and have a moderate understanding of the Godot game engine. I also have about three years experience using Blender regularly.
 
-My current main personal project is an FPS I'm working on in Godot 4.2.1. https://github.com/NotNewAnymore/FPS1
+My current main personal project is an [FPS](https://github.com/NotNewAnymore/FPS1) I'm working on in Godot 4.2.1. 
